@@ -1,0 +1,7 @@
+C:\Users\JUSTIN S. UCETA\source\repos\gitjustin\programas basicos\programas basicos\bin\Debug\programas basicos.exe.config
+C:\Users\JUSTIN S. UCETA\source\repos\gitjustin\programas basicos\programas basicos\bin\Debug\programas basicos.exe
+C:\Users\JUSTIN S. UCETA\source\repos\gitjustin\programas basicos\programas basicos\bin\Debug\programas basicos.pdb
+C:\Users\JUSTIN S. UCETA\source\repos\gitjustin\programas basicos\programas basicos\obj\Debug\division.csproj.AssemblyReference.cache
+C:\Users\JUSTIN S. UCETA\source\repos\gitjustin\programas basicos\programas basicos\obj\Debug\division.csproj.CoreCompileInputs.cache
+C:\Users\JUSTIN S. UCETA\source\repos\gitjustin\programas basicos\programas basicos\obj\Debug\programas basicos.exe
+C:\Users\JUSTIN S. UCETA\source\repos\gitjustin\programas basicos\programas basicos\obj\Debug\programas basicos.pdb
