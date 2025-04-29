@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "formula general", "formula 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumerosPrimos", "NumerosPrimos\NumerosPrimos.csproj", "{19DC01C4-B602-4926-950D-E32975E8DC7C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumerosImpar", "NumerosImpar\NumerosImpar.csproj", "{158D3464-AAB7-48E4-82CB-34BCA0CB2C11}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{19DC01C4-B602-4926-950D-E32975E8DC7C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{19DC01C4-B602-4926-950D-E32975E8DC7C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{19DC01C4-B602-4926-950D-E32975E8DC7C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{158D3464-AAB7-48E4-82CB-34BCA0CB2C11}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{158D3464-AAB7-48E4-82CB-34BCA0CB2C11}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{158D3464-AAB7-48E4-82CB-34BCA0CB2C11}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{158D3464-AAB7-48E4-82CB-34BCA0CB2C11}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

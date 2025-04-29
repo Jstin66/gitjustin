@@ -1,0 +1,7 @@
+C:\Users\JUSTIN S. UCETA\source\repos\gitjustin\programas basicos\NumerosImpar\bin\Debug\NumerosImpar.exe.config
+C:\Users\JUSTIN S. UCETA\source\repos\gitjustin\programas basicos\NumerosImpar\bin\Debug\NumerosImpar.exe
+C:\Users\JUSTIN S. UCETA\source\repos\gitjustin\programas basicos\NumerosImpar\bin\Debug\NumerosImpar.pdb
+C:\Users\JUSTIN S. UCETA\source\repos\gitjustin\programas basicos\NumerosImpar\obj\Debug\NumerosImpar.csproj.AssemblyReference.cache
+C:\Users\JUSTIN S. UCETA\source\repos\gitjustin\programas basicos\NumerosImpar\obj\Debug\NumerosImpar.csproj.CoreCompileInputs.cache
+C:\Users\JUSTIN S. UCETA\source\repos\gitjustin\programas basicos\NumerosImpar\obj\Debug\NumerosImpar.exe
+C:\Users\JUSTIN S. UCETA\source\repos\gitjustin\programas basicos\NumerosImpar\obj\Debug\NumerosImpar.pdb
