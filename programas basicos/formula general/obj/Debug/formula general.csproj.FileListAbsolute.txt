@@ -1,0 +1,7 @@
+C:\Users\JUSTIN S. UCETA\source\repos\gitjustin\programas basicos\formula general\bin\Debug\formula general.exe.config
+C:\Users\JUSTIN S. UCETA\source\repos\gitjustin\programas basicos\formula general\bin\Debug\formula general.exe
+C:\Users\JUSTIN S. UCETA\source\repos\gitjustin\programas basicos\formula general\bin\Debug\formula general.pdb
+C:\Users\JUSTIN S. UCETA\source\repos\gitjustin\programas basicos\formula general\obj\Debug\formula general.csproj.AssemblyReference.cache
+C:\Users\JUSTIN S. UCETA\source\repos\gitjustin\programas basicos\formula general\obj\Debug\formula general.csproj.CoreCompileInputs.cache
+C:\Users\JUSTIN S. UCETA\source\repos\gitjustin\programas basicos\formula general\obj\Debug\formula general.exe
+C:\Users\JUSTIN S. UCETA\source\repos\gitjustin\programas basicos\formula general\obj\Debug\formula general.pdb

@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "division", "programas basic
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "multiplicacion", "multiplicacion\multiplicacion.csproj", "{7949E61D-CF80-4AA8-BB05-3FABF17D1DEB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "formula general", "formula general\formula general.csproj", "{0D96D13B-210C-4258-AF66-BD0F80447D4B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{7949E61D-CF80-4AA8-BB05-3FABF17D1DEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7949E61D-CF80-4AA8-BB05-3FABF17D1DEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7949E61D-CF80-4AA8-BB05-3FABF17D1DEB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0D96D13B-210C-4258-AF66-BD0F80447D4B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D96D13B-210C-4258-AF66-BD0F80447D4B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D96D13B-210C-4258-AF66-BD0F80447D4B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D96D13B-210C-4258-AF66-BD0F80447D4B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
