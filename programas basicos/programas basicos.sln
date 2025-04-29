@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumerosPrimos", "NumerosPri
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumerosImpar", "NumerosImpar\NumerosImpar.csproj", "{158D3464-AAB7-48E4-82CB-34BCA0CB2C11}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fibonacci", "Fibonacci\Fibonacci.csproj", "{498FD0C8-9A87-41DE-AD7E-4D82724F12A4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{158D3464-AAB7-48E4-82CB-34BCA0CB2C11}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{158D3464-AAB7-48E4-82CB-34BCA0CB2C11}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{158D3464-AAB7-48E4-82CB-34BCA0CB2C11}.Release|Any CPU.Build.0 = Release|Any CPU
+		{498FD0C8-9A87-41DE-AD7E-4D82724F12A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{498FD0C8-9A87-41DE-AD7E-4D82724F12A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{498FD0C8-9A87-41DE-AD7E-4D82724F12A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{498FD0C8-9A87-41DE-AD7E-4D82724F12A4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
