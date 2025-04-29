@@ -1,0 +1,7 @@
+C:\Users\JUSTIN S. UCETA\source\repos\gitjustin\programas basicos\multiplicacion\bin\Debug\multiplicacion.exe.config
+C:\Users\JUSTIN S. UCETA\source\repos\gitjustin\programas basicos\multiplicacion\bin\Debug\multiplicacion.exe
+C:\Users\JUSTIN S. UCETA\source\repos\gitjustin\programas basicos\multiplicacion\bin\Debug\multiplicacion.pdb
+C:\Users\JUSTIN S. UCETA\source\repos\gitjustin\programas basicos\multiplicacion\obj\Debug\multiplicacion.csproj.AssemblyReference.cache
+C:\Users\JUSTIN S. UCETA\source\repos\gitjustin\programas basicos\multiplicacion\obj\Debug\multiplicacion.csproj.CoreCompileInputs.cache
+C:\Users\JUSTIN S. UCETA\source\repos\gitjustin\programas basicos\multiplicacion\obj\Debug\multiplicacion.exe
+C:\Users\JUSTIN S. UCETA\source\repos\gitjustin\programas basicos\multiplicacion\obj\Debug\multiplicacion.pdb

@@ -3,8 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\JUSTIN S. UCETA\\source\\repos\\gitjustin\\programas basicos\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6DA17A09-8842-4E9B-8F39-6A8258EDC344}|programas basicos\\programas basicos.csproj|C:\\Users\\JUSTIN S. UCETA\\source\\repos\\gitjustin\\programas basicos\\programas basicos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6DA17A09-8842-4E9B-8F39-6A8258EDC344}|programas basicos\\programas basicos.csproj|solutionrelative:programas basicos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7949E61D-CF80-4AA8-BB05-3FABF17D1DEB}|multiplicacion\\multiplicacion.csproj|c:\\users\\justin s. uceta\\source\\repos\\gitjustin\\programas basicos\\multiplicacion\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7949E61D-CF80-4AA8-BB05-3FABF17D1DEB}|multiplicacion\\multiplicacion.csproj|solutionrelative:multiplicacion\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DA17A09-8842-4E9B-8F39-6A8258EDC344}|programas basicos\\division.csproj|C:\\Users\\JUSTIN S. UCETA\\source\\repos\\gitjustin\\programas basicos\\programas basicos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DA17A09-8842-4E9B-8F39-6A8258EDC344}|programas basicos\\division.csproj|solutionrelative:programas basicos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,19 +18,31 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\JUSTIN S. UCETA\\source\\repos\\gitjustin\\programas basicos\\programas basicos\\Program.cs",
               "RelativeDocumentMoniker": "programas basicos\\Program.cs",
               "ToolTip": "C:\\Users\\JUSTIN S. UCETA\\source\\repos\\gitjustin\\programas basicos\\programas basicos\\Program.cs",
               "RelativeToolTip": "programas basicos\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-29T21:28:54.412Z",
+              "WhenOpened": "2025-04-29T21:46:15.872Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\JUSTIN S. UCETA\\source\\repos\\gitjustin\\programas basicos\\multiplicacion\\Program.cs",
+              "RelativeDocumentMoniker": "multiplicacion\\Program.cs",
+              "ToolTip": "C:\\Users\\JUSTIN S. UCETA\\source\\repos\\gitjustin\\programas basicos\\multiplicacion\\Program.cs",
+              "RelativeToolTip": "multiplicacion\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T21:43:45.451Z",
               "EditorCaption": ""
             }
           ]
