@@ -1,0 +1,7 @@
+C:\Users\JUSTIN S. UCETA\source\repos\gitjustin\programas basicos\numeros desordenados\bin\Debug\numeros desordenados.exe.config
+C:\Users\JUSTIN S. UCETA\source\repos\gitjustin\programas basicos\numeros desordenados\bin\Debug\numeros desordenados.exe
+C:\Users\JUSTIN S. UCETA\source\repos\gitjustin\programas basicos\numeros desordenados\bin\Debug\numeros desordenados.pdb
+C:\Users\JUSTIN S. UCETA\source\repos\gitjustin\programas basicos\numeros desordenados\obj\Debug\numeros desordenados.csproj.AssemblyReference.cache
+C:\Users\JUSTIN S. UCETA\source\repos\gitjustin\programas basicos\numeros desordenados\obj\Debug\numeros desordenados.csproj.CoreCompileInputs.cache
+C:\Users\JUSTIN S. UCETA\source\repos\gitjustin\programas basicos\numeros desordenados\obj\Debug\numeros desordenados.exe
+C:\Users\JUSTIN S. UCETA\source\repos\gitjustin\programas basicos\numeros desordenados\obj\Debug\numeros desordenados.pdb
