@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fibonacci", "Fibonacci\Fibo
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "numeros desordenados", "numeros desordenados\numeros desordenados.csproj", "{20792B0D-39AB-447D-AFD6-55AAE4949683}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "calculadora", "calculadora\calculadora.csproj", "{453A99DF-454F-416C-A12C-1B1BDE264DC5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{20792B0D-39AB-447D-AFD6-55AAE4949683}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{20792B0D-39AB-447D-AFD6-55AAE4949683}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{20792B0D-39AB-447D-AFD6-55AAE4949683}.Release|Any CPU.Build.0 = Release|Any CPU
+		{453A99DF-454F-416C-A12C-1B1BDE264DC5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{453A99DF-454F-416C-A12C-1B1BDE264DC5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{453A99DF-454F-416C-A12C-1B1BDE264DC5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{453A99DF-454F-416C-A12C-1B1BDE264DC5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

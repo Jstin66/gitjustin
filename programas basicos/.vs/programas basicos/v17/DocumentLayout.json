@@ -1,12 +1,37 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\JUSTIN S. UCETA\\source\\repos\\gitjustin\\programas basicos\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{453A99DF-454F-416C-A12C-1B1BDE264DC5}|calculadora\\calculadora.csproj|c:\\users\\justin s. uceta\\source\\repos\\gitjustin\\programas basicos\\calculadora\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{453A99DF-454F-416C-A12C-1B1BDE264DC5}|calculadora\\calculadora.csproj|solutionrelative:calculadora\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\JUSTIN S. UCETA\\source\\repos\\gitjustin\\programas basicos\\calculadora\\Program.cs",
+              "RelativeDocumentMoniker": "calculadora\\Program.cs",
+              "ToolTip": "C:\\Users\\JUSTIN S. UCETA\\source\\repos\\gitjustin\\programas basicos\\calculadora\\Program.cs",
+              "RelativeToolTip": "calculadora\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T08:42:31.182Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
